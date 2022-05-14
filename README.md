@@ -3,8 +3,9 @@
 ## Build Setup
 
 ```bash
-# install dependencies
-$ npm install
+# install dependencies (instalaciones previas para correr el servidor 3000)
+$ npm install (instalar NPM y modulos de node.js)
+$ npm install axios (dependencia para poder consumir API del backend)
 
 # serve with hot reload at localhost:3000
 $ npm run dev
